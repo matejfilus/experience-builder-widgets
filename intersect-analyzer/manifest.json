@@ -2,7 +2,7 @@
   "name": "intersect-analyzer",
   "label": "Intersect Analyzer",
   "type": "widget",
-  "version": "0.7.1",
+  "version": "0.7.3",
   "exbVersion": "1.17.0",
   "author": "Matej Filús",
   "description": "Widget na vyhodnotenie intersectu s podporou feature layers a map service sublayers.",
