@@ -1,0 +1,23 @@
+{
+  "name": "intersect-analyzer",
+  "label": "Intersect Analyzer",
+  "type": "widget",
+  "version": "0.7.1",
+  "exbVersion": "1.17.0",
+  "author": "Matej Filús",
+  "description": "Widget na vyhodnotenie intersectu s podporou feature layers a map service sublayers.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "supportAutoSize": true
+  },
+  "dependencies": [
+    "jimu-arcgis",
+    "jimu-ui"
+  ],
+  "defaultSize": {
+    "width": 500,
+    "height": 700,
+    "autoHeight": true
+  }
+}
